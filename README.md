@@ -1,1 +1,1 @@
-# linked-list-js
+# Linked List
